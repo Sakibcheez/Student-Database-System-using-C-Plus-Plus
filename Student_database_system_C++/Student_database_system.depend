@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1735497329 source:c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\main.cpp
+	<iostream>
+	"Utils.h"
+	"Database.h"
+
+1735497329 c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\utils.h
+	"Database.h"
+
+1735497329 c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\database.h
+	"Student.h"
+	<vector>
+	<string>
+	<algorithm>
+
+1735497329 c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\student.h
+	<string>
+
+1735497329 source:c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\student.cpp
+	"Student.h"
+	<iostream>
+
+1735497587 source:c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\utils.cpp
+	"Utils.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1735498438 source:c:\users\sakib ahmed shishir\documents\github\c_cplusplus\student_database_system\database.cpp
+	"Database.h"
+	<fstream>
+	<iostream>
+
