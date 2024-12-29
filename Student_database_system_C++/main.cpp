@@ -7,7 +7,9 @@ using namespace std;
 int main() {
     Database db("students.txt");
     int choice;
-    cout << "1. Register\n2. Login\nEnter choice: ";
+    cout << "---------------Student Database Management System------------\n" ;
+    cout << "@sakibahmedshishir" << endl ;
+    cout << "\n1. Register\n2. Login\nEnter choice: ";
     cin >> choice;
     switch (choice) {
         case 1:

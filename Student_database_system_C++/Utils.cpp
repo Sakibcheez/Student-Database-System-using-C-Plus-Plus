@@ -18,6 +18,7 @@ void registerUser() {
     file << username << " " << password << std::endl;
     file.close();
     std::cout << "User registered successfully!\n";
+
 }
 
 void login() {
